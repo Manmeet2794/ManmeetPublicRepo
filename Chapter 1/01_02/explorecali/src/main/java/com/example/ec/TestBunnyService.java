@@ -6,5 +6,9 @@ public class TestBunnyService {
 
     }
 
+    public void calcData(){
+
+    }
+
 
 }
