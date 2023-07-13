@@ -10,5 +10,10 @@ public class TestBunnyService {
 
     }
 
+    public int CalcArea(int length, int breadth){
+        return length*breadth;
+
+    }
+
 
 }
